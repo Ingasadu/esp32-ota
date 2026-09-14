@@ -4,5 +4,5 @@
     "url": "https://ingasadu.github.io/esp32-ota/softap_sta_prova.bin",
     "sha256": "be145e41987aff3333024a49deca89a674a1c5916486a7988445ac31f5277564",
     "size": 758048,
-    "mandatory": true
+    "mandatory": false
 }
